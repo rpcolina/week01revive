@@ -1,0 +1,26 @@
+
+#wrapper{
+    width:100%;
+    height:100%;
+    overflow:auto;
+}
+
+#sidebar{
+    float: left;
+    height: 100%;
+    width: 17%;
+    border-right:1px solid gainsboro;
+}
+
+#main{
+    overflow:hidden;
+    padding:5px;
+    width: 40%;
+    border: 1px solid black;
+}
+ .sbicons{
+    height:28px;
+    padding:8px;
+    margin: auto;
+
+ }
