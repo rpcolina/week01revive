@@ -56,7 +56,7 @@ body{}
  }
 
  #preficon{
-    height: 30px;
-    float: right;
-    margin-bottom: 5px;
+    height: 35px;
+    align-items: center;
+    display:inline-block;
  }
