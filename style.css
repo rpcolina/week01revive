@@ -1,0 +1,60 @@
+#sidebar{
+    float: left;
+    height: 100vh;
+    width: 17%;
+    border-right:1px solid gainsboro;
+}
+
+#homebar{
+    overflow:hidden;
+    padding:5px;
+    width: 79%;
+    border-bottom: 7px solid gainsboro;
+}
+
+#thome{
+    margin-left: 6px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    font-family: Helvetica Neue;
+}
+
+.sbicons{
+    height:28px;
+    padding:7.7px;
+    filter:  brightness(45%) grayscale(100%); 
+}
+
+.sbicons:hover{
+    background-color:#E8F5FE;
+    filter: none;
+    border-radius: 100%;
+}
+
+.sbicons:active{
+    background-color:#E8F5FE;
+    filter: none;
+}
+
+#bird{
+    filter: none;
+}
+
+#write{
+    filter: none;
+    padding-left:0px;
+    height: 53px;
+ }
+
+#pfp{
+    height: 39px;
+    border-radius: 100%;
+    filter: none;
+}
+
+#preficon{
+    height: 30px;
+    float: right;
+    margin-bottom: 5px;
+}
+
