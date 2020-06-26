@@ -8,7 +8,7 @@ body{}
     border-right:1px solid gainsboro;
 }
 
-#main{
+#homebar{
     overflow:hidden;
     padding:5px;
     width: 79%;
@@ -17,7 +17,7 @@ body{}
 
 #thome{
     margin-left: 6px;
-    margin-bottom: 6px;
+    margin-bottom: 15px;
     margin-top: 6px;
     font-family: Helvetica Neue;
 }
@@ -44,19 +44,20 @@ body{}
 }
 
 #write{
-    filter: hue-rotate(67deg);
+    filter: none;
     padding-left:0px;
     height: 53px;
  }
 
- #pfp{
+#pfp{
     height: 39px;
     border-radius: 100%;
     filter: none;
- }
+}
 
- #preficon{
+#preficon{
     height: 30px;
     float: right;
     margin-bottom: 5px;
- }
+}
+
