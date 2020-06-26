@@ -3,7 +3,7 @@ body{}
 
 #sidebar{
     float: left;
-    height: 100%;
+    height: 100vh;
     width: 17%;
     border-right:1px solid gainsboro;
 }
@@ -17,8 +17,8 @@ body{}
 
 #thome{
     margin-left: 6px;
-    margin-bottom: 15px;
-    margin-top: 6px;
+    margin-bottom: 8px;
+    margin-top: 8px;
     font-family: Helvetica Neue;
 }
 
